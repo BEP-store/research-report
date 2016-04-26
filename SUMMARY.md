@@ -8,5 +8,6 @@
 * [The Software Development Process](software-development/README.md)
   * [Limiting factors](software-development/limitations.md)
   * [Improvements](software-development/Improvements.md)
+* [The software development ecosystem](ecosystem/README.md)
 * [Conclusion](conclusion.md)
 * [References](references.md)
