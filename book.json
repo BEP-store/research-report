@@ -2,5 +2,5 @@
     "structure": {
         "readme": "introduction.md"
     },
-    "plugins": ["bibtex-citation"]
+    "plugins": ["bibtex-citation", "footnote-string-to-number"]
 }
