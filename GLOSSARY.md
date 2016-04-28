@@ -1,6 +1,3 @@
-# Software Ecosystem
-A set of actors functioning as a unit and interacting with a shared market for software and services, together with the relationships among them.
-
 # Niche players
 A company holding a specialized and profitable part of a commercial market.
 
