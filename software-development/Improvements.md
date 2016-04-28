@@ -1,4 +1,5 @@
 #Improvements
 
 #Engagement
-One of the main issues of Open Source Software Development is keeping the developers engaged.
+One of the possible issues in Open Source Software Development is engagement in the project. Commercial development have several mechanisms to ensure the stability of the project, like interface specifications, plans and habits regarding how things are done{{"mockus2002two" | cite}}. Communication can be a substitute for most of these mechanisms, although the "communication-only" is not scalable. The stability of the project engage the participants of the project and ensure a proper end-product. Extrinsic motivation, like money, reputation and peer pressure, can also boost the engagement in the project.  
+Open Source Software Development does not always have this stucture to build on. Most contributors in OSSD act based on  intrinsic motivation{{"bitzer2007intrinsic" | cite}}{{"roberts2006understanding" | cite}}, like gaining experience, gaining knowledge or doing it for fun. This type of motivation does not garuantee engagement, but does improve the mental condition while participating and higher quality performance, due to the lack of outside pressure{{"ryan2000intrinsic" | cite}}{{"10.2307/1449618" | cite}}.
