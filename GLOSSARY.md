@@ -4,6 +4,9 @@ A set of actors functioning as a unit and interacting with a shared market for s
 # Niche players
 A company holding a specialized and profitable part of a commercial market.
 
+# Niche creation
+The increase of niche players in a software ecosystem.
+
 # Tacit knowledge
 Ideas and insights that are not documented and hard to articulate.
 
