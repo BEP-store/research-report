@@ -11,15 +11,6 @@ According to {{"van2010software" | cite}}, niche creation can be stimulated by d
 
 To gain insights about the desired improvements, some kind of knowledge management will be needed in order to aggregate the information from all of the niche players. However, due to the use of personalized learning methodologies in the FeedbackFruits platform and the broad spectrum of subject covered by niche players, a lot of this information is tacit knowledge. In {{"mcdermott2000knowing" | cite}}, McDermott, 2000, states that sharing tacit knowledge requires interaction and proceeds to provide a list of critical factors for building a community that can share such knowledge.
 
-<!-- ## Social interaction
-
-In {{"sundaram2012understanding" | cite}} Sundaram, Lin, De Choudhury & Kelliher, 2012, posit that social interaction plays a central role in community formation and evolution. They present multiple perspectives on the definition of a community and a method of identifying community structures within social networks. -->
-
-<!-- Requirements for communities {{"sundaram2012understanding" | cite}}:
-  - Face-to-face interaction (Benedict Anderson)
-  - sociability, support, information, a sense of belonging, and social identity (Barry Wellman)
-  - -->
-
 ## Communities of practice
 
 Communities of practice enable person-to-person interaction, as well as engaging a whole group in advancing their field. As such, they are ideal vehicles for sharing tacit knowledge.
@@ -42,7 +33,3 @@ In {{"mcdermott2000knowing" | cite}}, McDermott, 2000, list 10 critical success 
 
 **Personal Challenge**
   - Create real dialogue about cutting edge issues.
-
-Tacit knowledge (Polanyi, 1958): Sharing knowledge, not documents. {{"mcdermott2000knowing" | cite}}. Using typical knowledge management methods to leverage tacit knowledge often results in information junkyards and empty libraries. To share tacit knowledge is to think together.
-
-Communities of practice are groups of people who share information, insight, experience, and tools about an area of common interest (Wenger, 1998). Communities are held together by passionate interest and value. Familiar software reduces the friction in connecting to the community and its space.
