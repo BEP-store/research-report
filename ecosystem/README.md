@@ -9,12 +9,11 @@ A Software Ecosystem (SECO) is defined by van den Berk, Jansen, & Luinenburg, 20
 
 Niche creation can be stimulated by determining the desired future state of the SECO {{"van2010software" | cite}}. To do this, both the current state and the desired improvements need to be known. In order for the hub to gain insight about the current state of the ecosystem, the SECO Software Assesment Model can be used. It defines a broad spectrum of characteristics of the SECO that can be made quantifiable.
 
-To gain insights about the desired improvements, some kind of knowledge management will be needed in order to aggregate the information from all of the niche players. However, due to the use of personalized learning methodologies in the FeedbackFruits platform and the broad spectrum of subjects covered by niche players, a lot of this information is tacit knowledge. In {{"mcdermott2000knowing" | cite}}, McDermott, 2000, states that sharing tacit knowledge requires interaction and proceeds to provide a list of critical factors for building a community that can share such knowledge.
+To gain insights about the desired improvements, some kind of knowledge management will be needed in order to aggregate the information from all of the niche players. However, due to the use of personalized learning methodologies in the FeedbackFruits platform and the broad spectrum of subjects covered by niche players, a lot of this information is tacit knowledge. McDermott states that sharing tacit knowledge requires interaction and proceeds to provide a list of critical factors for building a community that can share such knowledge {{"mcdermott2000knowing" | cite}}.
 
 ## Communities of practice
 
-Communities of practice enable person-to-person interaction while still engaging a whole group in advancing their field. As such, they are ideal vehicles for sharing tacit knowledge.
-In {{"mcdermott2000knowing" | cite}}, McDermott, 2000, list 10 critical success factors in building communities of practice. He separates these factors into four challenges:
+Communities of practice enable person-to-person interaction while still engaging a whole group in advancing their field. As such, they are ideal vehicles for sharing tacit knowledge. The following are 10 critical success factors in building communities of practice {{"mcdermott2000knowing" | cite}}, separated into four challenges:
 
 **Management Challenge**
   - Focus on topics important to the business and community members.
