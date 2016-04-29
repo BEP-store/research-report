@@ -2,5 +2,10 @@
     "structure": {
         "readme": "introduction.md"
     },
-    "plugins": ["bibtex-citation", "footnote-string-to-number"]
+    "plugins": ["bibtex-citation", "footnote-string-to-number", "chart"],
+    "pluginsConfig": {
+        "chart": {
+            "type": "c3"
+        }
+    }
 }
