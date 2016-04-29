@@ -19,4 +19,5 @@
   * [What can be learned from existing efforts to involve a community with software development?](conclusions/rq2.md)
   * [How can community resources be used to improve the software development process?](conclusions/rq3.md)
   * [What limitations does the existing FeedbackFruits ecosystem impose on the software?](conclusions/rq4.md)
+  [Recommendations](recommendations.md)
 * [References](references.md)
