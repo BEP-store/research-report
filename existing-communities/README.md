@@ -35,10 +35,6 @@ The citation from Everett (2007) signifies the need for software testing. An est
 ### Package management
 Just as testing, package management might not be a primary driver for developers to start working on a project. In the article "Achieving quality in open-source software" by Aberdour (2007), the author identifies several key factors for participation and motivation in open-source software projects. These include code modularity and opportunities to learn new tools {{"aberdour2007achieving" | cite}}. When a project uses package management such new tools are quickly identified. Furthermore the presence of package management mostly indicates modular software.
 
-### Other thoughts
-Beside the two aforementioned key factors for participation and motivation in open-source software projects, Aberdour (2007) outlines two other key factors: Take on new challenges and Gain status in the community through reward and recognition {{"aberdour2007achieving" | cite}}.
-
-
 [^linuxrepo]: https://github.com/torvalds/linux
 [^apacherepo]: http://subversion.apache.org/
 [^mozillarepo]: https://hg.mozilla.org/
