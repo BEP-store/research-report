@@ -13,7 +13,7 @@ Not all intentional communities fulfill all of these criteria but they give a go
 
 **Ecological Communities**  
 Ecological communities are communities that withdraw to remote locations in an effort to live according to their own ideals. The community members actively separate themselves from society and aim to be self-sufficient. The separation is what identifies this type of intentional communities{{"meijering2007constructing" | cite}}{{"meijering2007intentional" | cite}}.  
-Ecological communities can manifest itself on different scales. It can vary from a group living together in a house (cohousing) to a whole village (ecovillages){{"sanguinetti2012design" | cite}}, but all ecological communities have a support-structure and cooperate to achieve the ideals of the community{"svensson2002ecovillage" | cite}.
+Ecological communities can manifest itself on different scales. It can vary from a group living together in a house (cohousing) to a whole village (ecovillages){{"sanguinetti2012design" | cite}}, but all ecological communities have a support-structure and cooperate to achieve the ideals of the community{{"svensson2002ecovillage" | cite}}.
 
 **Communal Communities**  
 Communal communities center their ideals around the contact between communities members{{"meijering2007intentional" | cite}}. This means that the platform (chat-groups, website, etc.) or place (offices, pub, etc.) plays a central key in this type of community. The place or subject of the platform focuses on the particular characteristic that the members have in common. Examples of such communities are a cooking-forum for people who like cooking or a chat-group for parents whose kids are in the same class.
