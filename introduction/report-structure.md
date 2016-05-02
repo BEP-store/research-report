@@ -2,8 +2,7 @@
 To anwser the four main research questions, the report will have four sections. The first research question zooms in on what can be learned from (non-software) communities. Before theories can be defined about what can be learned from all sorts of communities, a definition must be established of what a community is. Because communities exist in different sizes, with different structures and on different platforms, a few of these communities will be analysed in [section 1](../communities.md).
 
 Software development in its current form has some methodologies to establish requirements for a (big) software development project.
-*** referentie naar subvraag ***  
-These requirements are the basis of how the software program will be built and are therefore an essential part of the software development process.
+The second research question will take a better look at the dynamics of requirements, because these requirements are the basis of how the software program will be built and are therefore an essential part of the software development process.
 In [section 2](../requirements/README.md), a few of the methods wich are used to establish requirements will be described.
 The dynamics of the requirements, like management and implementation, will also be given a closer look.
 
