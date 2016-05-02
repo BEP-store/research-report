@@ -2,10 +2,14 @@
     "structure": {
         "readme": "introduction.md"
     },
-    "plugins": ["bibtex-citation", "footnote-string-to-number", "chart"],
+    "plugins": ["bibtex-citation", "footnote-string-to-number", "chart", "image-captions"],
     "pluginsConfig": {
         "chart": {
             "type": "c3"
+        },
+        "image-captions": {
+          "caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_",
+          "align": "left"
         }
     }
 }
