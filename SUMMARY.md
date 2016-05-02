@@ -13,7 +13,7 @@
 * [Software ecosystems](software-ecosystems.md)
   * [Techniques used in software communities to involve the community](software-ecosystems/community-techniques.md)
   * [Engagement](software-ecosystems/engagement.md)
-* [The feedbackfruits ecosystem](fbf-ecosystem.md)
+* [Integration with FeedbackFruits](feedbackfruits/README.md)
 * [Conclusions](conclusions.md)
   * [What can be learned from existing (non-software) communities?](conclusions/rq1.md)
   * [What can be learned from existing efforts to involve a community with software development?](conclusions/rq2.md)
