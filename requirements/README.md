@@ -7,7 +7,7 @@ In the "Guide to the Software Engineering Body of Knowledge" (SWEBOK) the IEEE[^
 
 ## Requirements development
 
-Discovering, analyzing, documenting and validating requirements are all part of the process of requirements development {{"pandey2010effective" | cite}}. This process is essential to defining a software architecture works as the end user expects. This part of the requirements engineering process takes place before a software implementation is developed. The goal is to end up with a specification of the requirements the software has to adhere to.
+Discovering, analyzing, documenting and validating requirements are all part of the process of requirements development {{"pandey2010effective" | cite}}. This process is essential to defining a software architecture that works the way the end user expects it to work. This part of the requirements engineering process takes place before a software implementation is developed. The goal is to end up with a specification of the requirements the software has to adhere to.
 
 One of the main challenges in requirements development in large systems is coordination {{"crowston1998coordination" | cite}}, specifically coordinating dependencies. Dependencies may arise between requirements, resources and software that consumes these resources. To manage this coordination mechanisms are needed, such as standardization, problem decomposition or (third-party) expert counsel. Early dependency detection and analysis is key to determining which coordination mechanism to apply.
 

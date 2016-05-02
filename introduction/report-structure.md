@@ -4,7 +4,7 @@ To anwser the four main research questions, the report will have four sections. 
 Software development in its current form has some methodologies to establish requirements for a (big) software development project.
 *** referentie naar subvraag ***  
 These requirements are the basis of how the software program will be built and are therefore an essential part of the software development process.
-In [section 2](../software-lifecycle.md), a few of the methods wich are used to establish requirements will be described.
+In [section 2](../requirements/README.md), a few of the methods wich are used to establish requirements will be described.
 The dynamics of the requirements, like management and implementation, will also be given a closer look.
 
 Some ways to involve the community in building software may be composed based on the previous two sections. However, this research will probably not be the only attempt to involve a software community in building software.
