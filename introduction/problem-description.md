@@ -1,0 +1,6 @@
+# Problem description
+Existing tools offered by platforms (such as GitHub) focus on collaboration and distributed software development. These tools however are created around the needs of developers, rather than facilitating the software development process in general. This excludes a large part of the community from participating actively in the process.
+
+On the other hand, the tools developed at FeedbackFruits are focused on the improvement of education. The tools are targeted at students and teachers, many of which are non-programmers and as such are excluded from the traditional development process. In addition, feature request are often too vague and plentiful for developers of the core platform to accommodate all of them. To include these individuals, who are often eager to improve the educational system, FeedbackFruits aims to create a platform where anyone with useful expertise can be included in the software development process. The goal of this platform is to create software that can connect to existing FeedbackFruits ecosystem, but can be developed without having to know its inner workings. The general problem description, with respect to FeedbackFruits, then becomes as follows:
+
+How can the existing platform be extended in such a way that everyone in the FeedbackFruits community can contribute to the software development process?

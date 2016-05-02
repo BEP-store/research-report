@@ -1,3 +1,4 @@
 # Introduction
-test
-We {{"Kalliamvakou:2015:OSC" | cite}} bla.
+With the rise of open-source software over the past years, open source communities have grown as well. In large open source projects, the community plays a significant role in providing feature requests, prioritization of future features and feedback on existing functionalities. This increased influence is reflected in the tools that are used in software development. Open issue trackers, pull requests and public communication channels like IRC, Slack, Gitter and Twitter are just a few of many options for software developers to engage with the community around their software.
+
+However, in the current situation, the software plays the central role in the process. Issues are listed under repositories and pull requests are about code. This results in alienation of the part of the community that doesn't have the technical expertise to deal with code, usually the majority. This seems suboptimal, since the software development process deals with a lot of concepts beyond code as well. This document identifies the difficulties in centering the software development process around the community, with the goal of utilizing as much of the expertise available in the community. It formulates a clear problem description and splits this problem into different research questions.
