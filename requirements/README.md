@@ -7,17 +7,27 @@ In the "Guide to the Software Engineering Body of Knowledge" (SWEBOK) the IEEE[^
 
 ## Requirements development
 
-Discovering, analyzing, documenting and validating requirements are all part of the process of requirements development {{"pandey2010effective" | cite}}. This process is essential to defining a software architecture works as the end user expects. One of the activities related to requirements development is software testing.
+Discovering, analyzing, documenting and validating requirements are all part of the process of requirements development {{"pandey2010effective" | cite}}. This process is essential to defining a software architecture works as the end user expects. This part of the requirements engineering process takes place before a software implementation is developed. The goal is to end up with a specification of the requirements the software has to adhere to.
+
+One of the main challenges in requirements development in large systems is coordination {{"crowston1998coordination" | cite}}, specifically coordinating dependencies. Dependencies may arise between requirements, resources and software that consumes these resources. To manage this coordination mechanisms are needed, such as standardization, problem decomposition or (third-party) expert counsel. Early dependency detection and analysis is key to determining which coordination mechanism to apply.
 
 ## Requirements management
 
-Throughout the software development process a requirement may change. This change may affect other parts of the system and in turn affect other requirements as well. Requirements management consists of activities related to managing these changes and tracing them to the corresponding parts of the system {{"pandey2010effective" | cite}}. An example of an activity that are related to traceability is issue tracking.
+Throughout the software development process a requirement may change. This change may affect other parts of the system and in turn affect other requirements as well. Requirements management consists of activities related to managing these changes and tracing them to the corresponding parts of the system {{"pandey2010effective" | cite}}.
+The goals of the this part of the process are {{"hoffmann2004requirements" | cite}}:
+
+- supporting acquisition, specification, grouping and attribution of the raw captured requirements
+- supporting their derivation to more detailed levels, keeping and adjusting attributes
+- enabling test cases and test environments to be defined and linked
+- enabling relationships between requirements, design, realization and test to be tracked and traced
+- enable distributed development within the organization
+
+Requirements management facilitates an iterative requirements engineering process {{"pandey2010effective" | cite}}. In "Requirements for Requirements Management Tools", Hoffmann, Kühn, Weber, & Bittner {{"hoffmann2004requirements" | cite}} provide a requirements specification for any tool that attempts requirements management for large scale projects.
 
 ## The Twin peaks model
 
 In order to ensure a software implementation adheres to its requirements and keeps doing so, an iterative workflow is required. An example of an iterative model is the Twin Peaks model. Requirements and an architectural specification are developed concurrently, while continually separating problem structure and specification from those of the solution {{"nuseibeh2001weaving" | cite}}. Combining this approach with problem frames {{"hall2002relating" | cite}} allows for a structural decomposition of problems into smaller problems that can be solved with a modular solution. The final workflow looks like this {{"nuseibeh2001weaving" | cite}}:
 
 ![Workflow](../images/workflow.png)
-
 
 [^ieee]: http://www.ieee.org/
