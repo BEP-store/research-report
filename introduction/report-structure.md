@@ -7,7 +7,7 @@ The second research question is therefore focussed on existing platforms where s
 
 Software development in its current form has some methodologies to establish requirements for a (big) software development project.
 The third research question will take a better look at the dynamics of requirements. These requirements are the basis of how the software will be built and are therefore an essential part of the software development process.
-In [section 2](../requirements/README.md), a few of the methods wich are used to establish requirements will be described.
+In [section 3](../requirements/README.md), a few of the methods wich are used to establish requirements will be described.
 The dynamics of the requirements, like management and implementation, will also be given a closer look.
 
 The first three research question focus on determining the critical attributes of the problem in a general sense. However, because these attributes have to be applicable on the current FeedbackFruits-platform, that platform may pose some limitations. With research question four, the structure of the FeedbackFruits-platform will be examined, as well as the extensiblity of the platform. The result of this research question can be found in [section 4](../fbf-ecosystem.md).
