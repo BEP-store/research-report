@@ -4,8 +4,8 @@ The research questions from the Project Plan have been rephrased during the rese
 
 How should community driven software development be structured?
 - What can be learned from existing (non-software) communities?
-- How are requirements established and used in software development?
 - What current efforts exists to involve the community in the software development process?
+- How are requirements established and used in software development?
 - What limitations does the existing FeedbackFruits ecosystem impose on the software?
 
 ## Sub-questions
@@ -17,16 +17,16 @@ How should community driven software development be structured?
   - What are the weaknesses of these communities?
 - What are factors that can be utilized for software development?
 
-### How are requirements established and used in software development?
-- What is the necessity of requirements?
-- What are requirements based on?
-- Are there standards for establishing requirements?
-- Can requirements change during the software development process?
-
 ### What current efforts exists to involve the community in the software development process?
 - What elements are essential in community involvement?
 - What techniques are currently used for community involvement?
 - How can the development process be regulated with regards to time and maintainability?
 - Is it possible to keep everyone engaged during the entire development process?
+
+### How are requirements established and used in software development?
+- What is the necessity of requirements?
+- What are requirements based on?
+- Are there standards for establishing requirements?
+- Can requirements change during the software development process?
 
 ### What limitations does the existing FeedbackFruits ecosystem impose on the software?
