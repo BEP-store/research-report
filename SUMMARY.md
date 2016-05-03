@@ -13,7 +13,7 @@
   * [Techniques used in software communities to involve the community](software-ecosystems/community-techniques.md)
   * [Engagement](software-ecosystems/engagement.md)
 * [Integration with FeedbackFruits](feedbackfruits/README.md)
-* [Conclusions](conclusions.md)
+* [Conclusions](conclusions/README.md)
   * [What can be learned from existing (non-software) communities?](conclusions/rq1.md)
   * [What can be learned from existing efforts to involve a community with software development?](conclusions/rq2.md)
   * [How can community resources be used to improve the software development process?](conclusions/rq3.md)
