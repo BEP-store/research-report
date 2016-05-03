@@ -7,7 +7,7 @@ Communication is perhaps the most important factor when it comes to collaborativ
 ### Version control
 Many software projects makes use of version control. According to the annual Eclipse Community service this percentage totals to almost eighty percent (Git 43.9%, Subversion 30.7%, Other 5.8%) in 2014 {{"eclipse2014survey" | cite}}. From the statistics in the figure below it can be concluded that the Git has become the most popular version control method. The main reasons for the growing popularity of Git are its feature set and the usage in large projects such as the aformentioned Linux project {{"stephen2015git" | cite}}. Two of the most important features of Git are branching and pull-requests stimulate working together trough independent work {{"Kalliamvakou:2015:OSC" | cite}}.
 
-{% chart format="yaml" %}
+<!-- {% chart format="yaml" %}
 padding:
     top: 40
     right: 40
@@ -22,7 +22,9 @@ data:
         - [Mercurial & CVS, 17.9, 11.5, 8.1, 5.8]
 title:
     text: "Version control popularity by type"
-{% endchart %}
+{% endchart %} -->
+
+![Popularity of different version control tools](../images/version_control.png)
 
 ### Issue tracking
 The quote "Software does not allow itself to be finished. Software is never finished" by Paul LeBlanc {{"leblanc1993writing" | cite}} shows the need for good issue tracking. There is an enormous list of issue-tracking solutions available {{"multiple2016issuetracking" | cite}}, each with their own strengths and weaknesses. Interviews conducted by Kalliamvakou show that for example the combination of the GitHub issue-tracker enhances self-organization when assiging tasks and resolving conflicts {{"Kalliamvakou:2015:OSC" | cite}}. However the GitHub solution is not optimal because the issue tracker lacks some critcial features such as severity, components and bug report templates {{"Zhou:2015:CAB:2745802.2745808" |  cite}}.
