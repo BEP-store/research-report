@@ -1,5 +1,6 @@
 # Research questions
-To better understand how to solve the problem, the following main research questions and several sub-questions have been formulated. These questions are rather general, but serve to split the problem into smaller pieces, which can then be broken down even further. The smaller sub-questions will give this report its structure, but won't be anwsered explicitly in the conclusion.
+To better understand how to solve the problem, the following main research questions and several sub-questions have been formulated. These questions are rather general, but serve to split the problem into smaller pieces, which can then be broken down even further. The smaller sub-questions will give this report its structure, but won't be anwsered explicitly in the conclusion.  
+The research questions from the Project Plan have been rephrased during the research, wich means that the research questions below are rephrased versions of the original questions.
 
 How should community driven software development be structured?
 - What can be learned from existing (non-software) communities?
