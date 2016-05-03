@@ -1,5 +1,7 @@
 # Recommendations
-No existing solutions for the problem were found. Based on the conclusions, a description is given of what an ideal solution looks like. This solution is presented in the form of a platform.
+No existing solutions were found that solve the specific problem posed in the problem description. However both Wikipedia and GitHub contain various aspects that can be used in a possible solution. Wikipedia is one of the few community based platforms that is really a sustained succes. One of the reasons is that Wikipedia consists of three groups: backers, contributors and moderators. A shared factor between Wikipedia and GitHub is that subjects can be decomposed in multiple smaller parts. This modularity is someting that repeatedly occurres in the previous parts of the research report and thus is likely to be essential for a succesful community based platform. For software development GitHub is one of the best and most used tools. The challenge is to extends its filosofies to non-software development.
+
+Based on these succes stories and conclusions, a description is given of what an ideal solution looks like. This solution is presented in the form of a platform.
 
 ## The ideal platform
 The platform converts resources, mainly in the form of time and knowledge, into an extension to the current FeedbackFruits platform. The goal of this extension should be to fulfill a particular need. A goal can be identified as the answer to finishing the phrase: "With FeedbackFruits I would like to ..".
