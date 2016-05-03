@@ -1,5 +1,7 @@
 # Recommendations
-No existing solutions for the problem were found. Based on the conclusions, a description is given of what an ideal solution looks like. This solution is presented in the form of a platform.
+No existing solutions were found that solve the specific problem posed in the problem description. However both Wikipedia and GitHub contain various aspects that can be used in a possible solution. Wikipedia is one of the few community based platforms that really is a sustained success. One of the reasons is that Wikipedia consists of three main groups: donators, contributors and moderators [^wikiuserroles]. A shared factor between Wikipedia and GitHub is that subjects can be decomposed in multiple smaller parts. This modularity is something that repeatedly occurs in the previous parts of the research report and thus is likely to be essential for a successful community based platform. For software development GitHub is one of the best and most used tools. The challenge is to extend its philosophies to non-software development.
+
+Based on these success stories and conclusions, a description is given of what an ideal solution looks like. This solution is presented in the form of a platform.
 
 ## The ideal platform
 The platform converts resources, mainly in the form of time and knowledge, into an extension to the current FeedbackFruits platform. The goal of this extension should be to fulfill a particular need. A goal can be identified as the answer to finishing the phrase: "With FeedbackFruits I would like to ..". Each goal can be divided in challlenges, sub-goals that need to be met in order to meet the goal. If these challlenges are to large to be solved by one or two pioneers, then the challlenges must be divided into sub-challenges in such a way that they can be solved by one or two pioneers. This implies that the whole project can be solved by lots of different people by tackling smaller problems at the same time.
@@ -35,3 +37,5 @@ Many of the suggested features already exist as separate tools. If such tools ha
 - crowdsourcing platforms (eg. Kickstarter, tilt.com, WePay, monster.com, pinterest and gratipay);
 - integration testing (eg. Jenkins and Travis-CI);
 - chat tools (eg. gitter, slack).
+
+[^wikiuserroles]: https://en.wikipedia.org/wiki/Wikipedia:User_access_levels
