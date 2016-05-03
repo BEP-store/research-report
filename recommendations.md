@@ -18,23 +18,16 @@ The core team are a select group of pioneers that take the responsibility for a 
 ## The process
 There are five main factors that are essential for the development of an extension: hype, code, requirements, updates and motivation. These factors correspond to different types communication between different categories of pioneers. Hype->resources->requirements->code->(updated) product->hype.
 
-### Hype (Everyone to everyone)
-Hype is created by promoting the project, either on social media or other means. Anyone can create hype for a project. Creating more hype not only stimulates backers to support the project but also motivates contributors.
-
-Hype related communication is not restricted to a category.
-
-### Code
-
-Communication: (Core team - Contributors)
+### Hype
+Hype is created by promoting the project, either on social media or other means. Anyone, pioneer or not, can create hype for a project. Creating more hype not only stimulates backers to support the project but also motivates contributors. This effectively generates resources that can be consumed in the other parts of the process.
 
 ### Requirements
+Requirements are needed to structure how resources will be consumed in order to produce code. Good requirements are fundamental to a successful process, so the specification falls on the core team. The requirements need to be formulated clearly and dependencies between requirements need to be identified early on, resulting in communication dictating this part of the process.
 
-Communication: (Core team)
+### Code
+Code is produced by the core team and the contributors as a means of achieving the goal. The requirements should be reflected in the code produced by both the core team and the contributors. For this reason, the means of communicating about the code should facilitate referencing the relevant requirements as well.
 
-### State of the project (Recap/Timeline/Updates (Informing about the current and future state of the project)
-
-Communication: (Core team -> everyone)
-
-Problem decomposition, ### Timeline ### Quality control -->
+### Process update
+One of the most important factors in maintaining a successful community is the ability to keep everyone engaged with the common goal. To achieve this, everyone in the community should be kept up-to-date on the current state of the project, as well as future plans. In addition to keeping the community engaged, this part of the process also bridges the current iteration with the next iteration. It ends the current iteration with a summary of the results, and provides an opportunity for hype to be created around the next iteration.
 
 ## Integrations
