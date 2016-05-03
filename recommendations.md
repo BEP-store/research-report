@@ -31,7 +31,7 @@ Code is produced by the core team and the contributors as a means of achieving t
 One of the most important factors in maintaining a successful community is the ability to keep everyone engaged with the common goal. To achieve this, everyone in the community should be kept up-to-date on the current state of the project, as well as future plans. In addition to keeping the community engaged, this part of the process also bridges the current iteration with the next iteration. It ends the current iteration with a summary of the results, and provides an opportunity for hype to be created around the next iteration.
 
 ## Integrations
-Many of the features suggested already exist as separate tools. If such tools have an API, they could be neatly integrated into the proposed platform which prevents reinventing the wheel. For example GitHub has an extensive API with, among others, support for the creation of teams, pull-request and issues. Other integrations that can be explored are:
-- crowsourcing platforms (eg. Kickstarter, tilt.com, WePay, monster.com and gratipay);
+Many of the suggested features already exist as separate tools. If such tools have an API, they could be neatly integrated into the proposed platform which prevents reinventing the wheel. For example GitHub has an extensive API with, among others, support for the creation of teams, pull-request and issues. Other integrations that can be explored are:
+- crowdsourcing platforms (eg. Kickstarter, tilt.com, WePay, monster.com, pinterest and gratipay);
 - integration testing (eg. Jenkins and Travis-CI);
-- chat tools (eg. gitter and slack).
+- chat tools (eg. gitter, slack).
