@@ -38,4 +38,59 @@ Many of the suggested features already exist as separate tools. If such tools ha
 - integration testing (eg. Jenkins and Travis-CI);
 - chat tools (eg. gitter, slack).
 
+## MVP/EVP
+An initial list of requirements can be found below. This list is not exhaustive but should rather be seen as an itererative list. Positive and negative signs (++/+/-/--) correspond with the importance of the feature. The importances can be must have, should have, could have, won't have, which is according the MoSCoW model.
+
+As a user of the platform I would like to:
+- [++] see a landing page
+- [+] have a general information page
+- [++] create an account
+- [-] edit a account
+- [++] be able to join a project
+	- [-] as a backer
+	- [+] as a contributor
+	- [++] as a core team member
+- [++] create a goal
+	- [+] set estimated necessary resources (actual results from problem decomposition)
+	- [+] tags
+- [+] edit a goal
+- [++] view a list of goals
+	- [-] view a list of trending goals
+	- [+] view a list of newest goals
+	- [+] search/browse for goals
+- [++] see a goal description
+- [++] see a list of sub-challenges for a goal
+	- [++] prioritize sub-challenges
+- [++] use GitHub integrated
+- [++] be able to decompose a goal into challenges in a structured way as specified in Requirements for Requirements Management Tools (Hoffmann, Matthias et al., 2004)
+- [+] hype my goal
+	- [+] share my goal on social media
+- [++] get information about the status of my goal, such as:
+	- [++] progress
+	- [++] milestones
+	- [+] timeline
+	- [+] functionality
+	- [++] quality
+	- [-] bounty
+	- [-] available resources
+	- [-] hype factor
+- [++] get feedback on my work
+	- [+] via automated testing
+	- [++] via peer review
+- [++] give feedback on someone else's work
+- [++] communicate with other pioneers
+	- [+] use different tools per category
+	- [+] get updates (push, email, etc.)
+- [-] view someone's reputation
+- [-] get reputation
+- [-] have some sort of gamification
+- [+] see my contributions
+- [-] follow a tutorial on how to use the platform
+	- [--] per user type
+- [-] get tips on how to use the platform
+- [--] join a training party
+- [--] have a ranking system
+- [--] be matched with an apprentice
+- [--] be matched with a senior
+
 [^wikiuserroles]: https://en.wikipedia.org/wiki/Wikipedia:User_access_levels
