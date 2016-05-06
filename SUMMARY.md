@@ -1,4 +1,5 @@
 # Summary
+* [About](about.md)
 * [Introduction](introduction.md)
   * [Problem description](introduction/problem-description.md)
   * [Research questions](introduction/research-questions.md)
