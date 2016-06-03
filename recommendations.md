@@ -13,7 +13,7 @@ Esther is a computer science student but is a bit bored and is browsing facebook
 
 Peter is a designer and already actively contributes in the bepstore. In the 'new goals' section he sees that a design for multiple choice and open questions is desired. Peter joins the project and indicates he would like to be responsible for this. After an hour he has finished the initial designs and uploads them to the platform. The platform automatically shares his designs on 'myawesomedesigns.com'. A very experienced designer sees Peters design and comments on it.
 
-After a while Bob checks on his goal and sees that a core team has formed and the initial idea has been broken down into smaller goals. Additionally, designs have been drafted. Bob has some ideas about these designs and comments on them. Esther gets a notification that some designs are ready for implementation and starts to develop them. When she is done, the core team gets a test report. Bob is happy and gives an update to everyone involved. 
+After a while Bob checks on his goal and sees that a core team has formed and the initial idea has been broken down into smaller goals. Additionally, designs have been drafted. Bob has some ideas about these designs and comments on them. Esther gets a notification that some designs are ready for implementation and starts to develop them. When she is done, the core team gets a test report. Bob is happy and gives an update to everyone involved.
 
 ## Resources
 The platform facilitates a structured process to reach a goal. On a high level, this process consists of two parts: the gathering and spending of resources. The most important resources are time and knowledge. Less important resources can include money, servers and licensed materials. Resources can be gathered by creating a hype around the goal. Once enough resources have been acquired a team of pioneers can start implementing an extenions to achieve the goal. This will result in resources being spent.
@@ -50,56 +50,78 @@ Many of the suggested features already exist as separate tools. If such tools ha
 ## MVP/EVP
 An initial list of requirements can be found below. This list is not exhaustive but should rather be seen as an itererative list. Positive and negative signs (++/+/-/--) correspond with the importance of the feature. The importances can be must have, should have, could have, won't have, which is according the MoSCoW model.
 
+### ToDo
 As a user of the platform I would like to:
+
+#### General improvements
+- [+] have a general information page (v0.6)
+	- [-] get tips on how to use the platform (v0.6)
+- [+] goal tags (v0.5)
+- [+] search/browse for goals (v0.5)
+- [+] see my contributions (v0.6)
+
+#### User engagement
+- [++] communicate with other pioneers (v0.5)
+	- [+] use different tools per category (v0.5)
+	- [+] get updates (push, email, etc.) (v0.5)
+- [+] create an account more easily (v0.6)
+- [+] hype my goal (v0.5)
+- [+] share my goal on social media (v0.5)
+- [-] edit a user (v0.4)
+
+#### Requirements engineering
+- [++] prioritize sub-challenges (v0.4)
+- [++] get additional information about the status of my goal, such as:
+	- [++] quality (v0.6)
+	- [+] functionality (v0.6)
+
+#### Quality control
+- [++] give feedback on someone else's work (v0.5)
+- [++] get feedback on my work (v0.5)
+	- [++] via peer review (v0.5)
+	- [+] via automated testing (v0.5)
+
+#### New
+- [+] automatic repository generation (v0.6)
+	- [+] boilerplate (v0.6)
+	- [+] teams (v0.6)
+	- [+] status checks (v0.6)
+	- [+] milestones (v0.6)
+	- [+] issues (v0.6)
+
+#### Out of Scope
+- [-] follow a tutorial on how to use the platform
+	- [--] per user type
+- [-] be able to join a project as a backer
+- [-] view someone's reputation
+- [-] get reputation
+	- [--] have a ranking system
+- [-] have some sort of gamification
+- [-] bounty
+- [-] available resources
+- [-] hype factor
+- [--] join a training party
+- [--] be matched with an apprentice
+- [--] be matched with a senior
+
+### Done
 - [++] see a landing page
-- [+] have a general information page
 - [++] create an account
-- [-] edit a account
 - [++] be able to join a project
-	- [-] as a backer
 	- [+] as a contributor
 	- [++] as a core team member
 - [++] create a goal
 	- [+] set estimated necessary resources (actual results from problem decomposition)
-	- [+] tags
 - [+] edit a goal
 - [++] view a list of goals
 	- [-] view a list of trending goals
 	- [+] view a list of newest goals
-	- [+] search/browse for goals
 - [++] see a goal description
 - [++] see a list of sub-challenges for a goal
-	- [++] prioritize sub-challenges
 - [++] use GitHub integrated
 - [++] be able to decompose a goal into challenges in a structured way as specified in Requirements for Requirements Management Tools (Hoffmann, Matthias et al., 2004)
-- [+] hype my goal
-	- [+] share my goal on social media
 - [++] get information about the status of my goal, such as:
 	- [++] progress
 	- [++] milestones
 	- [+] timeline
-	- [+] functionality
-	- [++] quality
-	- [-] bounty
-	- [-] available resources
-	- [-] hype factor
-- [++] get feedback on my work
-	- [+] via automated testing
-	- [++] via peer review
-- [++] give feedback on someone else's work
-- [++] communicate with other pioneers
-	- [+] use different tools per category
-	- [+] get updates (push, email, etc.)
-- [-] view someone's reputation
-- [-] get reputation
-- [-] have some sort of gamification
-- [+] see my contributions
-- [-] follow a tutorial on how to use the platform
-	- [--] per user type
-- [-] get tips on how to use the platform
-- [--] join a training party
-- [--] have a ranking system
-- [--] be matched with an apprentice
-- [--] be matched with a senior
-
 [^wikiuserroles]: https://en.wikipedia.org/wiki/Wikipedia:User_access_levels
